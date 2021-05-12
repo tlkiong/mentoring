@@ -23,9 +23,8 @@ Welcome to this repository that is meant to test your skills in git.
 	- Title of the PR is: <nickname> application
 	- Ensure that your git commit follows [conventional commit](https://www.conventionalcommits.org/en/v1.0.0/)
 	- Ensure that your git commit is small & often.
-	- Ensure that your 1 commit is 1 thing. 
+	- Ensure that your 1 commit is 1 thing.
 	- Ensure that your commit message is clear. (eg: "Update application" & "update resume" is not acceptable. Elaborate further: "add latest job in resume" is clearer & much better)
-6. 
 
 #### Notes:
 - nickname: Name that you want people to call you
@@ -37,7 +36,7 @@ The purpose of this is to provide an opportunity for you to get real world exper
 
 I might have more experience but that doesn't mean that I know everything. So, don't put yourself down thinking you aren't good enough. However, please keep in mind the following:
 
-**Everything that is done must have a reason. Even if the reason could be: I don't know any better that time. So, always seek to understand rather than judge**
+**Everything that is done must have a reason. Even if the reason could be: I don't know any other better solutions that time. So, always seek to understand rather than judge**
 
 If you are shy to ask, you will be stupid forever.
 
