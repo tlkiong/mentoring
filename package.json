@@ -1,0 +1,23 @@
+{
+  "name": "mentoring",
+  "version": "1.0.0",
+  "description": "Welcome to this repository that is meant to test your skills in git.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github-personal:tlkiong/mentoring.git"
+  },
+  "author": "Kiong",
+  "license": "MIT",
+  "devDependencies": {
+    "cz-conventional-changelog": "^3.3.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}
